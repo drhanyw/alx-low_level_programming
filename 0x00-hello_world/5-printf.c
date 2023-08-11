@@ -3,9 +3,9 @@
 /**
  * main -Entry point
  *
- * Description:c code  prints "with proper grammar, but the outcome is a piece
+ * Description: prints "with proper grammar, but the outcome is a piece
  * of art,"
- * Return: 0 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
